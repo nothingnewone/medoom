@@ -1,7 +1,7 @@
 {
-	"adstatus": true,
-	"specificad": false,
-	"alternatead": true,
+	"adstatus": false,
+	"specificad": true,
+	"alternatead": false,
 	"alternate_data": {
 		"Appopen": "Admob",
 		"Interstrial": "Facebook",
