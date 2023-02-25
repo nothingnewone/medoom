@@ -1,6 +1,6 @@
 {
-	"adstatus": false,
-	"specificad": false,
+	"adstatus": true,
+	"specificad": true,
 	"alternatead": false,
 	"alternate_data": {
 		"Appopen": "Admob",
@@ -9,11 +9,11 @@
 		"Banner": "Admob"
 	},
 	"Admob": {
-		"Admob_adstatus": false,
-		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
-		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
-		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
-		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+		"Admob_adstatus": true,
+		"Admob_Appopen": "/22349270898,22827158175/71949c13-47f5-403a-8046-b0b3700b2c98/7f24013a-0c0b-4ff7-9cf9-2d01368f26d9/7f24013a-0c0b-4ff7-9cf9-2d01368f26d9-last",
+		"Admob_Interstrial": "/22349270898,22827158175/71949c13-47f5-403a-8046-b0b3700b2c98/b99351c8-5955-438c-a9c8-d505d473f283/b99351c8-5955-438c-a9c8-d505d473f283-last",
+		"Admob_Native": "/22349270898,22827158175/71949c13-47f5-403a-8046-b0b3700b2c98/92a82f9b-d676-495d-986c-5365a9e2b159/92a82f9b-d676-495d-986c-5365a9e2b159-last",
+		"Admob_Banner": "/22349270898,22827158175/71949c13-47f5-403a-8046-b0b3700b2c98/fb0d2a76-4202-4c1e-b43e-73f1cb8e4a34/fb0d2a76-4202-4c1e-b43e-73f1cb8e4a34-last"
 	},
 	"Facebook": {
 		"FB_adstatus": false,
@@ -32,13 +32,13 @@
 		"Native_Count": 0,
 		"Banner_Count": 0,
 		"Back_Inter_count":0,
-		"onResumeOpenAd": false
+		"onResumeOpenAd": true
 	},
-	"NativeBlink": false,
-	"NativeBanner": false,
-	"AdDialog": false,
-	"BackAd": false,
-	"BackAdPlatform": "Facebook",
-	"ExtraScreen": "0",
+	"NativeBlink": true,
+	"NativeBanner": true,
+	"AdDialog": true,
+	"BackAd": true,
+	"BackAdPlatform": "Admob",
+	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
